@@ -1,0 +1,12 @@
+names:
+- human
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: human-cctv-aljry
+  url: https://universe.roboflow.com/cctv-vj8gz/human-cctv-aljry/dataset/1
+  version: 1
+  workspace: cctv-vj8gz
+test: ../test/images
+train: ../train/images
+val: ../valid/images
